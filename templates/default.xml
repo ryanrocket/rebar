@@ -1,0 +1,19 @@
+<!-- Starting Inside Body -->
+<main>
+    <!-- navbar -->
+    <nnav />
+    <!-- main content -->
+    <ccontent>
+        <!-- the heading of the page -->
+        <cheading />
+        <!-- the actual page content -->
+        <cmain />
+    </ccontent>
+    <!-- page footer -->
+    <ffooter>
+        <!-- side: left -->
+        <fleft />
+        <!-- side: right -->
+        <fight />
+    </ffooter>
+</main>
