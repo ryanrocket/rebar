@@ -1,7 +1,7 @@
 <!-- Starting Inside Body -->
 <main>
     <!-- navbar -->
-    <nnav />
+    <nnav top sticky />
     <!-- main content -->
     <ccontent>
         <!-- the heading of the page -->
@@ -10,7 +10,7 @@
         <cmain />
     </ccontent>
     <!-- page footer -->
-    <ffooter>
+    <ffooter pbottom sticky>
         <!-- side: left -->
         <fleft />
         <!-- side: right -->
